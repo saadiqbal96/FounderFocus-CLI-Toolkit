@@ -31,6 +31,7 @@ Ensure all dependencies are installed before running the code.
 For further customization, feel free to modify the code in the founder_focus.py module.
 
 The founder_focus_project.ipynb notebook is useful for understanding and modifying the data analysis flow.
+```bash
 
 ### **This will run the CLI toolkit, analyze the data, and generate reports.**
 
