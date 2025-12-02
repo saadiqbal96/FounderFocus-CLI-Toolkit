@@ -24,6 +24,21 @@ This project is a command-line toolkit to help solo founders make data-driven st
 ```bash
 python founder_focus.py
 
+
+This will run the CLI toolkit, analyze the data, and generate reports.
+
+Use the Jupyter Notebook (founder_focus_project.ipynb):
+
+Open the notebook and run the cells to see how the toolkit works in a step-by-step fashion.
+
+The notebook includes code for generating a startup summary and CSV reports, which are saved as founder_summary.txt and founder_data.csv respectively.
+
+Reports:
+
+The founder_summary.txt file will contain a textual summary of the analyzed startup, including its sector, funding, and acquisition-readiness status.
+
+The founder_data.csv file will contain structured data about the startup, such as its name, sector, funding, and whether it’s acquisition-ready.
+
 Notes
 
 Ensure all dependencies are installed before running the code.
