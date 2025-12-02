@@ -24,7 +24,6 @@ This project is a command-line toolkit to help solo founders make data-driven st
 ```bash
 python founder_focus.py
 
-
 This will run the CLI toolkit, analyze the data, and generate reports.
 
 Use the Jupyter Notebook (founder_focus_project.ipynb):
@@ -46,5 +45,3 @@ Ensure all dependencies are installed before running the code.
 For further customization, feel free to modify the code in the founder_focus.py module.
 
 The founder_focus_project.ipynb notebook is useful for understanding and modifying the data analysis flow.
-
-
