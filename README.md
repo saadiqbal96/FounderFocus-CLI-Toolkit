@@ -23,6 +23,6 @@ This project is a command-line toolkit to help solo founders make data-driven st
 
 ```bash
 python founder_focus.py
-exit
+>>> exit()
 
 ddd
