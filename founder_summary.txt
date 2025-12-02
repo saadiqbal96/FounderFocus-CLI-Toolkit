@@ -1,4 +1,0 @@
-Startup: AI Innovations
-Sector: AI
-Funding: 7000000
-Acquisition Ready: True
